@@ -8,10 +8,10 @@ Implement the Below
 Understanding the working and complexities of the below 
 - Trie ✅
 - Vector Amortised time ✅
-- Bit Manipulation
-- Singleton design pattern
-- Factory Design pattern
-- Union find Data structure
+- Bit Manipulation ✅
+- Singleton design pattern ✅
+- Factory Design pattern ✅
+- Union find Data structure ✅
 - Quick select algo
 - Balanced Binary search tree (Both AVL and Red black trees)
 - Minimum spanning tree algorithm
