@@ -13,8 +13,7 @@ Understanding the working and complexities of the below
 - Factory Design pattern ✅
 - Union find Data structure ✅
 - Quick select algo ✅
-- Balanced Binary search tree (Both AVL and Red black trees)
-- Minimum spanning tree algorithm
-- Dijkstra's shortest path algorithm
-- Bellman-Ford path finding algorithm
-s
+- Balanced Binary search tree (Both AVL and Red black trees) ✅
+- Minimum spanning tree algorithm ✅
+- Dijkstra's shortest path algorithm ✅
+- Bellman-Ford path finding algorithm ✅
